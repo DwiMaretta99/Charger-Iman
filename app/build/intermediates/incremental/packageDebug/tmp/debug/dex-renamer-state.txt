@@ -1,0 +1,4 @@
+#Tue Dec 10 06:45:11 ICT 2019
+base.0=C\:\\Users\\Dwi Maretta\\AndroidStudioProjects\\DzikirApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

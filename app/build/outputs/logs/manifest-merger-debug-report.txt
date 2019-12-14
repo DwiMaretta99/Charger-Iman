@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d0f78d3250a04b78ce5fd98e63f2ecef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\603f3e8e70557898442464e5f83b788c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e4cc2f5bf33f166252d65115f2f9135c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b9fb20e6ea66ed0a2b5a53312ca386ba\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\2b5d5380645d0f994e651e0e4b316878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\6724a39add83f57c17a9813381ebbae3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\4c18a266094b2d280af9bce480d2357c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\1ece32d0adae16289ef0d22652a584b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7a12efc746b6870f90db775358f9c702\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cc9e0bc475e1055ce636ef39028b4f80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\9388a71f70b42f61b4f531e070db21d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\637d72d5e7a9d1b436ea04c720a86d0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\48c6b591c576063b0931043b0375f2f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e3be0cfea36bb6054f2576af338f66c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\ee52129023d30b8670cd11278321519c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7b6ee0b91c36382cbecc48a5c10e37e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\a645a1bc30015550ed18e72c6aa346ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0696ea0a4cc04aedc21828b0ce33f769\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1861aedca51ed492b1f36f6f32232fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cd92c175253d14d0899785b5dfa7f694\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\47d4c4f90eb175e984dc878f5861977d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\613636c372a990f46d88396d90c90227\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f574d258f9baabed838a54da31705c81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\3564de5373722117aafe6644ea9f1a84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\96d9e0cccbec9e0129b122d0c0c89f52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\c540db640867b92889f3507c26c2f614\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1e9deaa3ced1f4559f053d46d4186e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f79e9ec657936b58d868a625fabaa5b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b2a62d4d3046420f38196d0a4ac66135\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0570b31dafd3bb98b47a50fd922a8da4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d0f78d3250a04b78ce5fd98e63f2ecef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d0f78d3250a04b78ce5fd98e63f2ecef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b9fb20e6ea66ed0a2b5a53312ca386ba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b9fb20e6ea66ed0a2b5a53312ca386ba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cd92c175253d14d0899785b5dfa7f694\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cd92c175253d14d0899785b5dfa7f694\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.azhar.dzikir.event
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:17:9-52
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:17:19-40
+activity#com.azhar.dzikir.daftar
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:18:19-41
+activity#com.azhar.dzikir.kotlin_jadwal
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.azhar.dzikir.quran
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:20:19-40
+activity#com.azhar.dzikir.dzikir
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:21:19-41
+activity#com.azhar.dzikir.sholat
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.azhar.dzikir.MainActivity
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d0f78d3250a04b78ce5fd98e63f2ecef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d0f78d3250a04b78ce5fd98e63f2ecef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\603f3e8e70557898442464e5f83b788c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\603f3e8e70557898442464e5f83b788c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e4cc2f5bf33f166252d65115f2f9135c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e4cc2f5bf33f166252d65115f2f9135c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b9fb20e6ea66ed0a2b5a53312ca386ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b9fb20e6ea66ed0a2b5a53312ca386ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\2b5d5380645d0f994e651e0e4b316878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\2b5d5380645d0f994e651e0e4b316878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\6724a39add83f57c17a9813381ebbae3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\6724a39add83f57c17a9813381ebbae3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\4c18a266094b2d280af9bce480d2357c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\4c18a266094b2d280af9bce480d2357c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\1ece32d0adae16289ef0d22652a584b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\1ece32d0adae16289ef0d22652a584b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7a12efc746b6870f90db775358f9c702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7a12efc746b6870f90db775358f9c702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cc9e0bc475e1055ce636ef39028b4f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cc9e0bc475e1055ce636ef39028b4f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\9388a71f70b42f61b4f531e070db21d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\9388a71f70b42f61b4f531e070db21d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\637d72d5e7a9d1b436ea04c720a86d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\637d72d5e7a9d1b436ea04c720a86d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\48c6b591c576063b0931043b0375f2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\48c6b591c576063b0931043b0375f2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e3be0cfea36bb6054f2576af338f66c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\e3be0cfea36bb6054f2576af338f66c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\ee52129023d30b8670cd11278321519c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\ee52129023d30b8670cd11278321519c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7b6ee0b91c36382cbecc48a5c10e37e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\7b6ee0b91c36382cbecc48a5c10e37e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\a645a1bc30015550ed18e72c6aa346ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\a645a1bc30015550ed18e72c6aa346ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0696ea0a4cc04aedc21828b0ce33f769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0696ea0a4cc04aedc21828b0ce33f769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1861aedca51ed492b1f36f6f32232fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1861aedca51ed492b1f36f6f32232fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\303fcee1d96f6a7089ca62691a2ed008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cd92c175253d14d0899785b5dfa7f694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\cd92c175253d14d0899785b5dfa7f694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\47d4c4f90eb175e984dc878f5861977d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\47d4c4f90eb175e984dc878f5861977d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\613636c372a990f46d88396d90c90227\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\613636c372a990f46d88396d90c90227\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f574d258f9baabed838a54da31705c81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f574d258f9baabed838a54da31705c81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\3564de5373722117aafe6644ea9f1a84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\3564de5373722117aafe6644ea9f1a84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\96d9e0cccbec9e0129b122d0c0c89f52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\96d9e0cccbec9e0129b122d0c0c89f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\c540db640867b92889f3507c26c2f614\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\c540db640867b92889f3507c26c2f614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1e9deaa3ced1f4559f053d46d4186e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\d1e9deaa3ced1f4559f053d46d4186e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f79e9ec657936b58d868a625fabaa5b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\f79e9ec657936b58d868a625fabaa5b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b2a62d4d3046420f38196d0a4ac66135\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\b2a62d4d3046420f38196d0a4ac66135\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0570b31dafd3bb98b47a50fd922a8da4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dwi Maretta\.gradle\caches\transforms-2\files-2.1\0570b31dafd3bb98b47a50fd922a8da4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dwi Maretta\AndroidStudioProjects\DzikirApp\app\src\main\AndroidManifest.xml
